@@ -7,11 +7,15 @@
 **Учебная копия.** Оригинальная идея и дизайн — Марина Бударина,
 [Interactive Koi Pond](https://marinabudarina.github.io/koi/). Проект не связан с автором оригинала.
 Код написан с нуля; картинки рыбок сгенерированы в Higgsfield; картинки, код, звуки
-и тексты оригинала не использовались.
+и тексты оригинала не использовались. Опубликовано с разрешения Марины Будариной.
 
 *Study copy. Original idea & design by Marina Budarina
 ([Interactive Koi Pond](https://marinabudarina.github.io/koi/)). Not affiliated with the original author.
-Code written from scratch; fish images generated in Higgsfield; no assets, code, audio or texts from the original were used.*
+Code written from scratch; fish images generated in Higgsfield; no assets, code, audio or texts from the original were used. Published with Marina Budarina's permission.*
+
+## Посмотреть
+
+https://emelianne.github.io/koi-pond/
 
 ## Как устроено
 
